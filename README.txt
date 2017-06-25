@@ -24,4 +24,4 @@
 	- searchByIndex(int index);
 	- maxElement();
 	- minElement();
-	- average().
+	- average()
